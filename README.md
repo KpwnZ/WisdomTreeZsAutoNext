@@ -1,2 +1,3 @@
 # WisdomTreeZsAutoNext
-GTFO
+## GTFO FClass
+### GTFO

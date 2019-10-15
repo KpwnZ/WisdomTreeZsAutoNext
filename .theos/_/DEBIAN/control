@@ -1,0 +1,10 @@
+Package: com.xcxiao.wisdomtreezsautonext
+Name: WisdomTreeZsAutoNext
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: XCXiao
+Author: XCXiao
+Section: Tweaks
+Version: 0.0.1-9+debug
+Installed-Size: 156
