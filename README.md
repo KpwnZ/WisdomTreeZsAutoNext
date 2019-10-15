@@ -1,0 +1,2 @@
+# WisdomTreeZsAutoNext
+GTFO
