@@ -1,3 +1,7 @@
 # WisdomTreeZsAutoNext
 ## GTFO FClass
-### GTFO
+### WisdomTreeZsAutoNext features list.
+
+* Play next video automatically.
+* Remove the survey alert view.
+* Remove the question alert view.
