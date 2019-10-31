@@ -76,7 +76,7 @@
     %orig;
 
     if(self.progressLabel) {
-        self.progressLabel.text = [NSString stringWithFormat:@"%f", self.currentVideoCurrentTime/self.currentVideoDuration];
+        self.progressLabel.text = [NSString stringWithFormat:@"%.3f", self.currentVideoCurrentTime/self.currentVideoDuration];
     }
 
     // I don't care about performance at all.
